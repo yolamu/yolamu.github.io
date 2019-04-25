@@ -1,7 +1,7 @@
 /* styling for the slideshow on the homepage */
 ul.slideshow {
   width: 1250px;
-  height: 470px;
+  height: 600px;
   overflow: hidden;
   position: relative;
   margin: 0;
